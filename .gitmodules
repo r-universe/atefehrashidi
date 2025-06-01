@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "rencher"]
 	path = rencher
-	url = https://github.com/cran/rencher
+	url = https://github.com/atefehrashidi/rencher
